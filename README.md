@@ -8,13 +8,16 @@ The default rules are:
 
 - WAV files 
     - If SampleRate >= 44.1k + BitDepth >= 16-bit + NumChannels >= 2 
-    Is copied into: </output/path/>hd/ 
+    
+        -> Is copied into: </output/path/>hd/ 
 
 - Any new file 
-    Is copied into: </output/path/>default/ 
+    
+    -> Is copied into: </output/path/>default/ 
 
 - Any duplicated file 
-    Is renamed and copied into </output/path/>archive/
+    
+    -> Is renamed and copied into </output/path/>archive/
     
         
 !! This software doesn't delete any files by default, but always be careful with your files !!
