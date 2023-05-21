@@ -17,8 +17,7 @@ The default rules are:
     Is renamed and copied into </output/path/>archive/
     
         
-!! This software doesn't delete any files by default,
-!! but always be careful with your files
+!! This software doesn't delete any files by default, but always be careful with your files !!
 
 **Installation:**
 ```
